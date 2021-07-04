@@ -1,0 +1,4 @@
+파일 이름과 메인클래스 네임 동일시 
+javac Test.java -> 컴파일, Test.class 생성
+java Test ->실행
+https://mkil.tistory.com/481
