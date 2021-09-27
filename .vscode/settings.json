@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "Test/test2"
+        "Test/test2",
+        "."
     ]
 }
